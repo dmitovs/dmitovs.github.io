@@ -173,9 +173,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  greetings: Test1
+  welcome: Test2
+  sample: One Stop Device Lab
 
 # for contact form
 contact_form:
