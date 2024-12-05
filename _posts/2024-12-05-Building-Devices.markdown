@@ -58,4 +58,4 @@ Let’s brainstorm your ideas and challenges. Custom hardware solutions can give
 ###### Have an idea for a hardware product or solution but not sure how to make it real?
 Share it with us, and we’ll create a clear plan to turn your vision into reality.
 
-[E-mail](mailto:mail@1slab.com)
+[E-mail](mailto:mail@1slab.com) ~ [Linkedin](https://www.linkedin.com/company/1slab) ~ [Facebook](https://www.facebook.com/1slab/) ~ [Youtube](https://www.youtube.com/@1SLab_en)

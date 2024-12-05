@@ -48,4 +48,4 @@ We're all about technology and building innovative hardware solutions.
 - Want to stand out from the competition with custom hardware solutions?
 - Have an idea but aren’t sure how to turn it into a product?
 
-[Contact us](mailto:mail@1slab.com) ~ [Find more](/posts/2024-12-04-About)
+[Find out more](/posts/2024-12-04-About-Us)

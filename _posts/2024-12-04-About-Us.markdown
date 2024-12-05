@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-#lng_pair: id_Building_Devices
-title: About
+lng_pair: id_abous_us
+title: About Us
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -49,3 +49,5 @@ Over time, I became a professional engineer and team leader, designing electroni
 In 2024, my friends and I started [1SLab.com](/) to follow our passion. Our goal is to share our knowledge, help people create amazing devices that improve lives, and support the exploration of our planet and beyond. 
 
 Feel free to explore this blog, follow us on social media, or contact us with your questions, ideas, or proposals. We would love to hear from you!
+
+[E-mail](mailto:mail@1slab.com) ~ [Linkedin](https://www.linkedin.com/company/1slab) ~ [Facebook](https://www.facebook.com/1slab/) ~ [Youtube](https://www.youtube.com/@1SLab_en)
