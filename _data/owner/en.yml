@@ -53,11 +53,11 @@ contacts:
   #- github: ""
   - email: "mail@1slab.com"
   - linkedin: "company/1slab/"
+  - facebook: "1slab/"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
   - youtube: "@1SLab_en/"
-  - facebook: "1slab/"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
