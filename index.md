@@ -38,14 +38,14 @@ img: ":home-heading.jpg"
 ---
 We're all about technology and building innovative hardware solutions.
 
+###### [Engineering services](/posts/2024-12-05-Building-Devices)
+- Do you have a project but no hardware engineers on your team? We're here to help.
+- Want to stand out from the competition? Our custom hardware solutions might be just what you need.
+- Have an idea but aren’t sure how to turn it into a product? We know how to do that.
+
 ###### [Technology blog](/tabs/blog)
 - Learn how great devices are built and the best ways to create them.
 - Explore the history of engineering and learn why engineering projects succeed or fail.
 - Discover why engineering is such a fulfilling and fun way of life.
 
-###### [Engineering services](/posts/2024-12-05-Building-Devices)
-- Do you have a project but no hardware engineers on your team?
-- Want to stand out from the competition with custom hardware solutions?
-- Have an idea but aren’t sure how to turn it into a product?
-
-[Find out more about us](/posts/2024-12-04-About-Us)
+[_More about us_](/posts/2024-12-04-About-Us)
