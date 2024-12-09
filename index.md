@@ -4,7 +4,7 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":home-heading.jpg"
+img: ":EM-slab-darken-1024x576.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -36,16 +36,14 @@ img: ":home-heading.jpg"
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
-We're all about technology and building innovative hardware solutions.
-
-###### [Engineering services](/posts/2024-12-05-Building-Devices)
+###### Products & Services
 - Want to stand out from the competition? Our hardware solutions could give your business a unique edge.
 - Got a new hardware project but lack engineers to handle it? We’re here to help.
-- Have an idea, question, or proposal? We’re happy to discuss and support.
+- Have an idea, question, or proposal? We’re happy to discuss and support.\
+[_Contact us_](mailto:mail@1slab.com?subject=Inquiry%20from%201SLab.com)&nbsp; &nbsp; ~&nbsp; &nbsp; [_What we do_](/posts/2024-12-05-Building_Electronic_Device)
 
-###### [Technology blog](/tabs/blog)
+###### Articles & Stories
 - Learn how great devices are built and the best ways to create them.
 - Explore the history of engineering and learn why engineering projects succeed or fail.
-- Discover why engineering is such a fulfilling and fun way of life.
-
-[_Who we are_](/posts/2024-12-04-About-Us)
+- Discover the stories of great engineers and why their way of life is so fulfilling and fun.\
+[_Our blog_](/tabs/blog/)&nbsp; &nbsp; ~&nbsp; &nbsp; [_Who we are_](/posts/2024-12-04-Who-We-Are)
