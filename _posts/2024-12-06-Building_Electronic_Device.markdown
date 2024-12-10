@@ -120,7 +120,7 @@ At the same time, firmware development is progressing rapidly. As you know, soft
 Depending on the project's complexity and goals, this stage can be one of the most time-consuming. It often involves multiple iterations and produces various prototype generations, which can be evaluated, compared, or even presented to management or selected customers to determine the best solution. If earlier design stages were thorough and an experienced team is on board, a single iteration might be enough. However, for cutting-edge, multidisciplinary projects, several iterations—or even a return to the concept development stage—may be necessary to achieve the desired result.
 
 ###### Engineering Prototype
-![Rugged wearable device](:BED-EP.jpg){:width="250"}
+![Rugged and wearable](:BED-EP.jpg){:width="250"}
 
 Once we’re satisfied with the looks-like prototype look and feel, and our works-like prototype delights us with its first flashes and beeps, it’s time to combine everything into the first product prototype. While earlier stages relied heavily on [Commercial Off-The-Shelf](https://en.wikipedia.org/wiki/Commercial_off-the-shelf) (COTS) products like Evaluation Kits (EVKs) to prove concepts, this step involves designing all electronics and mechanical parts exactly as they will appear in the final product. Although still manufactured using rapid prototyping methods, the prototype must be fully functional, with performance meeting expectations. The software may not yet be finalized, but there should be a clear roadmap ensuring the hardware fully supports the planned, feature-complete firmware.
 
