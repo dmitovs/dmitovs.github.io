@@ -41,13 +41,13 @@ date: 2024-12-06 10:00:00 +0200
 ![Hardware Product Design Stages](:Product-design-stages.png)
 
 Hardware is not forgiving of mistakes, and many steps are required to successfully deliver a project:
-- Brainstorm & Consult
-- Project Planning
-- Project Management
-- Technical Support
-- Design and Development
-- Certification
-- Manufacturing ramp-up
+- [Brainstorm & Consult](/posts/2024-12-06-Building_Electronic_Device#brainstorm--consult)
+- [Project Planning](/posts/2024-12-06-Building_Electronic_Device#project-planning)
+- [Project Management](/posts/2024-12-06-Building_Electronic_Device#project-management)
+- [Technical Support](/posts/2024-12-06-Building_Electronic_Device#technical-support)
+- [Design and Development](/posts/2024-12-06-Building_Electronic_Device#design-and-development)
+- [Certification](/posts/2024-12-06-Building_Electronic_Device#certification)
+- [Manufacturing ramp-up](/posts/2024-12-06-Building_Electronic_Device#manufacturing-ramp-up)
 
 The complexity of each step depends on the specific project. While some steps might be simple and take only a few hours of work by one person, other can be much more complicated, requiring the attention of a team of experienced professionals for several weeks.
 
@@ -56,6 +56,8 @@ Now, let’s explore these steps in more detail.
 ***
 
 ##### Brainstorm & Consult
+![Drawing ideas](:BED-BS.jpg){:width="500"}
+
 When we take on a new project, we start by brainstorming the initial product idea, identifying potential challenges, and generating recommendations for the best technical and managerial solutions. For simpler projects, this can often be accomplished in a single session lasting just a few hours. However, for more complex projects, multiple design options need to be evaluated and compared. This process may involve consulting with experts in specific fields, researching and assessing existing solutions, and engaging in intensive brainstorming sessions.
 
 The result of this effort might initially look like just a collection of sketches on napkins, but it provides the foundation to move from imagination to a more feasible and tangible vision of the future design. To ensure these sketches are grounded in reality, the experts involved must have a solid education and years of experience in their respective fields—experience built on learning from their own past mistakes, so you don’t have to make them. Remember, mistakes in the hardware world can be [very expensive](https://www.bbc.com/news/business-38714461)!
@@ -67,11 +69,15 @@ Intense discussions about what the product should be and how it should be built 
 ***
 
 ##### Project Planning
+![Device Architecture Draft](:BED-PP.png){:width="250"}
+
 When ideas start to converge into a real project, we move on to the next step: estimating and planning project resources, costs, and timelines. For simpler projects, a single estimation iteration is usually enough, and the results can be quite accurate. However, for complex projects, we may need to assess multiple variants of the required budget, timeline, achievable product specifications, performance goals, and implementation business models, helping the customer select the most optimal solution. The outcome of this phase is a set of documentation: a clear action plan, preliminary device architecture, initial technical requirements, resource lists, and a project schedule.
 
 ***
 
 ##### Project Management
+![Project Gantt Chart](:BED-PM.png){:width="400"}
+
 In every project, progress and timelines should be carefully tracked to ensure that all processes are well-organized and transparent for everyone involved. It might seem that such a boring activity is not required for simpler projects, but our experience shows that this is not the case. The real world is full of complications and "[black swans](https://en.wikipedia.org/wiki/Black_swan_theory)", and people often the subject of [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) and other time management issues. These factors can cause even simple projects to fall apart, wasting valuable time and resources. To prevent this, we always begin Project Management activities from day one of any project.
 
 For a small projects, Project Management may be as simple as tracking a few tasks on a piece of paper and running regular stand-up meetings—still allowing you to track project activities, uncover blockers, and ensure project progress is transparent. For more complex projects, the [timeline diagram](https://en.wikipedia.org/wiki/Gantt_chart) can be large and complicated, involving dozens of contributors and hundreds of activities, spanning several months. Keeping all these moving parts under control is not easy, especially when considering time zones, holidays, vacations, sick leaves, unexpected events, and project changes. For this purpose, advanced software and an experienced project manager, who knows which tools to use and how to juggle tasks and manage time, are essential.
@@ -79,12 +85,16 @@ For a small projects, Project Management may be as simple as tracking a few task
 ***
 
 ##### Technical Support
+![Debugging at customer's site](:BED-TS.jpg){:width="180"}
+
 Engineers' involvement in hardware projects extends beyond design and development. They continuously support other team members, starting from initial brainstorming and consultations, through all stages of product development, manufacturing, and post-production. This involvement can vary depending on the project. For mass-produced consumer or commercial devices, engineers, together with [technical writers](https://en.wikipedia.org/wiki/Technical_writer), must prepare a comprehensive set of documentation, including user and service manuals, train customer support teams, and play an active role in the ramp-up of mass production at the factory. In contrast, developing complex, unique industrial or scientific devices may require direct communication between engineers and customers, or even on-site visits.
 
 ***
 
 ##### Design and Development
 ###### Proof of Concept
+![Great! No Magic Smoke coming](:BED-PC.jpg){:width="220"}
+
 So, we've defined and approved the full specification, our resources and timeline are under strict control, and engineers are ready to support the project. Now, let's begin the initial [Research & Development](https://en.wikipedia.org/wiki/Research_and_development) (R&D) phase. The goal is to have a combination of hardware and software components that are functional enough to confirm that the technical solution chosen in earlier design phases is the right one.
 
 Today, there is a wide range of off-the-shelf electrical and mechanical components available, and many custom mechanical parts can be quickly prototyped using rapid prototyping technologies. On the software side, [Open Source Software](https://en.wikipedia.org/wiki/Open_source) (OSS) and [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model) (LLM) allow us to prototype and build software systems fast. However, sometimes custom hardware and software component development is still necessary in the Proof of Concept phase to integrate and refine our design parts.
@@ -92,6 +102,8 @@ Today, there is a wide range of off-the-shelf electrical and mechanical componen
 At this stage, it’s impossible to combine all the design parts exactly as they will be in the final product, so expert advice is needed to ensure that turning this collection of wires, screws, and scripts into a polished product will be possible later.
 
 ###### Looks-like Prototype
+![3D mechanical draft](:BED-LL.jpg){:width="200"}
+
 After we’ve ignited the first spark of our new creation, we should already have a good idea of the hardware components we’ll use and how they’ll come together in the final product. If we want our device to be visually appealing, align with the company’s design style, and make a strong impression, we should create a [mockup](https://en.wikipedia.org/wiki/Mockup)—a physical prototype you can touch, feel, and test in real-world settings. This mockup can be shown to engineers, stakeholders, and selected customers. Early feedback is crucial, as it can uncover usability, reliability, manufacturability, or cost issues—or, on the other hand, spark new technical or marketing ideas.
 
 For complex products, this stage often involves multiple steps and collaboration with experts from different fields, including [industrial designers](https://en.wikipedia.org/wiki/Industrial_design) who specialize in blending technical requirements with visual appeal. It may take several attempts to get it right, but modern prototyping technologies like 3D printing make these iterations faster and easier, even when engineers and customers are on opposite sides of the world.
@@ -99,6 +111,8 @@ For complex products, this stage often involves multiple steps and collaboration
 While it might seem that this step isn't necessary for low-volume industrial devices, we still recommend giving it at least minimal attention. This process often reveals issues affecting assembly, usability, or performance that might otherwise go unnoticed.
 
 ###### Works-like Prototype
+![High voltage, heavy industry](:BED-WL.jpg){:width="220"}
+
 While the looks-like prototype is being created, intensive design work is happening in the electrical and mechanical departments, producing a set of design documents ready for the factory.
 
 At the same time, firmware development is progressing rapidly. As you know, software powers everything these days—from teacups to spaceships. While the final firmware version is still far off, with the right approach, early software builds can already run on initial work-like hardware prototypes and even bring some life to the looks-like prototypes.
@@ -106,6 +120,8 @@ At the same time, firmware development is progressing rapidly. As you know, soft
 Depending on the project's complexity and goals, this stage can be one of the most time-consuming. It often involves multiple iterations and produces various prototype generations, which can be evaluated, compared, or even presented to management or selected customers to determine the best solution. If earlier design stages were thorough and an experienced team is on board, a single iteration might be enough. However, for cutting-edge, multidisciplinary projects, several iterations—or even a return to the concept development stage—may be necessary to achieve the desired result.
 
 ###### Engineering Prototype
+![Rugged wearable device](:BED-EP.jpg){:width="250"}
+
 Once we’re satisfied with the looks-like prototype look and feel, and our works-like prototype delights us with its first flashes and beeps, it’s time to combine everything into the first product prototype. While earlier stages relied heavily on [Commercial Off-The-Shelf](https://en.wikipedia.org/wiki/Commercial_off-the-shelf) (COTS) products like Evaluation Kits (EVKs) to prove concepts, this step involves designing all electronics and mechanical parts exactly as they will appear in the final product. Although still manufactured using rapid prototyping methods, the prototype must be fully functional, with performance meeting expectations. The software may not yet be finalized, but there should be a clear roadmap ensuring the hardware fully supports the planned, feature-complete firmware.
 
 Engineering prototypes are typically produced in-house or by specialized factories in small quantities, usually under 100 units. If the production volume is more than just a few devices, it can be worthwhile to design and build [Automated Test Equipment](https://en.wikipedia.org/wiki/Automatic_test_equipment) (ATE) at this stage. ATE significantly improves testing and validation speed while reducing human error.
@@ -113,6 +129,8 @@ Engineering prototypes are typically produced in-house or by specialized factori
 For very low-volume industrial or commercial products (just a few units) that don’t require certification, assembling and validating the engineering prototype might be the final step of the project. However, for high-volume consumer and commercial products, the journey to a satisfied customer is only beginning.
 
 ###### Supply Chain Development
+![Try to choose the Right One!](:BED-SC.jpg){:width="300"}
+
 One of the most important documents released during the Engineering Prototype stage is the [Bill of Materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM). This is a detailed list of all the components used in the design, often containing hundreds or even thousands of items. Now imagine if a single critical component becomes unavailable during production—your entire project could come to a halt. A nightmare scenario.
 
 To prevent this, effective supply chain management is essential. From the early stages of design, engineers carefully select components that can either be reliably sourced due to their wide availability or secured through direct agreements with vendors. They also prioritize components with multiple substitutes to reduce the risk of supply shortages. This is particularly crucial for high-volume, long-lasting products. At the same time, the BOM cost must be carefully managed to prevent unexpected increases in product cost.
@@ -122,6 +140,8 @@ In some cases, a different approach might be more practical. After identifying c
 ***
 
 ##### Certification
+![EMI Test Report!](:BED-CF.png){:width="250"}
+
 Modern electronic devices exist in a sea of electromagnetic waves, making their certification for [Electromagnetic Compatibility](https://en.wikipedia.org/wiki/Electromagnetic_compatibility) (EMC/EMI) crucial. Many products also require other types of certifications, such as safety, [IP rating](https://en.wikipedia.org/wiki/IP_code), [ROHS](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive), and others.
 
 To avoid costly redesigns due to failed certification, the device's architecture must be planned with certification in mind from the very beginning of the project. Depending on the chosen design, the device might not need certification at all, or it could require a costly certification process—or, in some cases, it might even make certification impossible. Experienced engineers can save a lot of time and money by leveraging their expertise to address certification requirements early.
@@ -131,6 +151,8 @@ Preliminary certification tests can be performed in-house or at low-cost test la
 ***
  
 ##### Manufacturing ramp-up
+![EMI Test Report!](:BED-PR.jpg){:width="250"}
+
 In the modern world, the manufacturing process is often hidden from view, with factories located in remote areas. However, if we want to deliver high-quality, mass-produced products to our customers, we must be deeply involved in the manufacturing process.
 
 Depending on the project's complexity and expected production volume, this stage could be relatively simple, requiring only minor adjustments to the engineering prototype, or it could be very complex, involving numerous [Design for Manufacturing](https://en.wikipedia.org/wiki/Design_for_manufacturability) (DFM) considerations, manufacturing setup, and fine-tuning activities. Manufacturing high-quality electronic devices requires expertise beyond what’s needed for design, as well as large production facilities and expensive equipment. Therefore, manufacturing sites are usually separate from R&D facilities and are run by specialized [Electronic Manufacturing Service](https://en.wikipedia.org/wiki/Electronics_manufacturing_services) (EMS) companies.
