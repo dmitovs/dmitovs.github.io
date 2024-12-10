@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Dmitrijs
-title: Dmitrijs Ovsjannikovs
+lng_pair: id_Our_History
+title: Our History
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
