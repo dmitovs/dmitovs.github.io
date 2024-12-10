@@ -140,7 +140,7 @@ In some cases, a different approach might be more practical. After identifying c
 ***
 
 ##### Certification
-![EMI Test Report!](:BED-CF.png){:width="250"}
+![EMI Test Report](:BED-CF.png){:width="250"}
 
 Modern electronic devices exist in a sea of electromagnetic waves, making their certification for [Electromagnetic Compatibility](https://en.wikipedia.org/wiki/Electromagnetic_compatibility) (EMC/EMI) crucial. Many products also require other types of certifications, such as safety, [IP rating](https://en.wikipedia.org/wiki/IP_code), [ROHS](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive), and others.
 
@@ -151,7 +151,7 @@ Preliminary certification tests can be performed in-house or at low-cost test la
 ***
  
 ##### Manufacturing ramp-up
-![EMI Test Report!](:BED-PR.jpg){:width="250"}
+![Manual assembly line](:BED-PR.jpg){:width="250"}
 
 In the modern world, the manufacturing process is often hidden from view, with factories located in remote areas. However, if we want to deliver high-quality, mass-produced products to our customers, we must be deeply involved in the manufacturing process.
 
