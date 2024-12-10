@@ -11,12 +11,12 @@ category: Engineering
 # multiple tag entries are possible
 tags: [Engineering, Manufacturing]
 # thumbnail image for post
-img: ":Device-design-process-v2.jpg"
+img: ":Product-design-stages.png"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2024-12-05 10:00:00 +0200
+date: 2024-12-06 10:00:00 +0200
 
 # seo
 # if not specified, date will be used.
@@ -53,6 +53,8 @@ The complexity of each step depends on the specific project. While some steps mi
 
 Now, let’s explore these steps in more detail.
 
+***
+
 ##### Brainstorm & Consult
 When we take on a new project, we start by brainstorming the initial product idea, identifying potential challenges, and generating recommendations for the best technical and managerial solutions. For simpler projects, this can often be accomplished in a single session lasting just a few hours. However, for more complex projects, multiple design options need to be evaluated and compared. This process may involve consulting with experts in specific fields, researching and assessing existing solutions, and engaging in intensive brainstorming sessions.
 
@@ -62,16 +64,24 @@ From this early stage, it’s crucial to define the role of the [Product Owner](
 
 Intense discussions about what the product should be and how it should be built are a normal part of the design process. Without a Product Owner, these conflicts can cause the project to stall, which is why the Product Owner has the final say to keep things moving forward.
 
+***
+
 ##### Project Planning
 When ideas start to converge into a real project, we move on to the next step: estimating and planning project resources, costs, and timelines. For simpler projects, a single estimation iteration is usually enough, and the results can be quite accurate. However, for complex projects, we may need to assess multiple variants of the required budget, timeline, achievable product specifications, performance goals, and implementation business models, helping the customer select the most optimal solution. The outcome of this phase is a set of documentation: a clear action plan, preliminary device architecture, initial technical requirements, resource lists, and a project schedule.
+
+***
 
 ##### Project Management
 In every project, progress and timelines should be carefully tracked to ensure that all processes are well-organized and transparent for everyone involved. It might seem that such a boring activity is not required for simpler projects, but our experience shows that this is not the case. The real world is full of complications and "[black swans](https://en.wikipedia.org/wiki/Black_swan_theory)", and people often the subject of [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) and other time management issues. These factors can cause even simple projects to fall apart, wasting valuable time and resources. To prevent this, we always begin Project Management activities from day one of any project.
 
 For a small projects, Project Management may be as simple as tracking a few tasks on a piece of paper and running regular stand-up meetings—still allowing you to track project activities, uncover blockers, and ensure project progress is transparent. For more complex projects, the [timeline diagram](https://en.wikipedia.org/wiki/Gantt_chart) can be large and complicated, involving dozens of contributors and hundreds of activities, spanning several months. Keeping all these moving parts under control is not easy, especially when considering time zones, holidays, vacations, sick leaves, unexpected events, and project changes. For this purpose, advanced software and an experienced project manager, who knows which tools to use and how to juggle tasks and manage time, are essential.
 
+***
+
 ##### Technical Support
 Engineers' involvement in hardware projects extends beyond design and development. They continuously support other team members, starting from initial brainstorming and consultations, through all stages of product development, manufacturing, and post-production. This involvement can vary depending on the project. For mass-produced consumer or commercial devices, engineers, together with [technical writers](https://en.wikipedia.org/wiki/Technical_writer), must prepare a comprehensive set of documentation, including user and service manuals, train customer support teams, and play an active role in the ramp-up of mass production at the factory. In contrast, developing complex, unique industrial or scientific devices may require direct communication between engineers and customers, or even on-site visits.
+
+***
 
 ##### Design and Development
 ###### Proof of Concept
@@ -109,12 +119,16 @@ To prevent this, effective supply chain management is essential. From the early 
 
 In some cases, a different approach might be more practical. After identifying critical components—those whose replacement would require significant hardware or software redesign—a stock of these parts can be purchased and stored. This ensures availability for production but requires additional budget and storage under controlled conditions. Because of these extra costs, this strategy is usually reserved for prototypes or low-volume projects.
 
+***
+
 ##### Certification
 Modern electronic devices exist in a sea of electromagnetic waves, making their certification for [Electromagnetic Compatibility](https://en.wikipedia.org/wiki/Electromagnetic_compatibility) (EMC/EMI) crucial. Many products also require other types of certifications, such as safety, [IP rating](https://en.wikipedia.org/wiki/IP_code), [ROHS](https://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive), and others.
 
 To avoid costly redesigns due to failed certification, the device's architecture must be planned with certification in mind from the very beginning of the project. Depending on the chosen design, the device might not need certification at all, or it could require a costly certification process—or, in some cases, it might even make certification impossible. Experienced engineers can save a lot of time and money by leveraging their expertise to address certification requirements early.
 
 Preliminary certification tests can be performed in-house or at low-cost test labs. Once any issues are identified and resolved, a product sample should be sent to an official certification facility for final testing. This step should be done carefully, as it might involve [disclosing](https://fccid.io/ZL2CECHYA0080/Internal-Photos/Internal-photos-1493743) technical specifications and sometimes even parts of the design to the public and competitors.
+
+***
  
 ##### Manufacturing ramp-up
 In the modern world, the manufacturing process is often hidden from view, with factories located in remote areas. However, if we want to deliver high-quality, mass-produced products to our customers, we must be deeply involved in the manufacturing process.
@@ -137,8 +151,11 @@ Now the production line is running at full speed, and the EMS is fine-tuning the
 
 ###### Mass Production (MP)
 This step is only needed for high-volume products. Production can now be scaled by running on multiple lines – and even across factories – in parallel. Congratulations! This is the final stage of the manufacturing ramp-up process, and now your product can reach every corner of the world and delight your customers.
-\
-\
+
+***
+
 Now you should have a better understanding of how electronic product design and manufacturing works. It may seem complex, but experienced professionals can guide you through the process and turn your vision into a beautiful device.
 
-_Author: [Dmitrijs Ovsjannikovs](https://www.linkedin.com/in/dmivs/) for [1SLab.com](/)_
+***
+
+[_1SLab.com_](/posts/2024-12-04-Who-We-Are) -- [E-mail](mailto:mail@1slab.com?subject=Hey%201SLab.com!) -- [Linkedin](https://www.linkedin.com/company/1slab) -- [Facebook](https://www.facebook.com/1slab/) -- [Youtube](https://www.youtube.com/@1SLab_en)

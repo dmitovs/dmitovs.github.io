@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_who_we_are
-title: Who We Are
+lng_pair: id_Dmitrijs
+title: Dmitrijs Ovsjannikovs
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -11,12 +11,12 @@ category: Lab
 # multiple tag entries are possible
 tags: [Lab, Team]
 # thumbnail image for post
-img: ":1slab-locations-v3.png"
+img: ":Dmitrijs-2020.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2024-12-04 10:00:00 +0200
+date: 2024-12-05 10:00:00 +0200
 
 # seo
 # if not specified, date will be used.
@@ -38,10 +38,12 @@ on_site_search_exclude: true
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-![1S Lab locations](:1slab-locations-v3.png){:data-align="center"}
-\
-[1SLab.com](/) is a group of professional device engineers based in Riga, Latvia—a country in Northeastern Europe and a member of the [European Union](https://en.wikipedia.org/wiki/European_Union) and [Schengen Area](https://en.wikipedia.org/wiki/Schengen_Area). And oh no—it’s not about slabs! Our mission is to be a one-stop hub for [sharing](/tabs/blog/) our knowledge, [designing amazing devices](/posts/2024-12-06-Building_Electronic_Device) that enhance lives, drive business success, and push the boundaries of exploration in our world and beyond.
+![How can I use these things in my new device design?](:Dmitrijs-2020.jpg){:data-align="center"}
 
-***
+Hey! It’s great to meet you here in this cozy corner of the Internet. My name is [Dmitrijs](https://www.linkedin.com/in/dmivs/)—or Dima—and I’ve been designing hardware and software my entire life.
 
-[E-mail](mailto:mail@1slab.com?subject=Hey%201SLab.com!) -- [Linkedin](https://www.linkedin.com/company/1slab) -- [Facebook](https://www.facebook.com/1slab/) -- [Youtube](https://www.youtube.com/@1SLab_en)
+I have always loved technology. As a kid, I dreamed about building computers and exploring space. Over the years, I have worked on many exciting projects: reverse-engineering old game consoles, improving Japanese TV studios, shaking buildings with powerful motors, and even taming fire-throwing machines!
+
+Over time, I became a professional engineer and team leader, designing electronic devices and automation systems across a wide range of fields, from telecommunications to drones.
+
+In 2024, I started [1SLab.com](/) to create place, where my friends and I can follow our passion, share our knowledge, and help people design amazing devices that improve lives, and support the exploration of our planet—and maybe, one day, even beyond.
