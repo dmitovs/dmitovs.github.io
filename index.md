@@ -40,7 +40,7 @@ img: ":EM-slab-darken-1024x576.jpg"
 - Want to stand out from the competition? Our hardware solutions could give your business a unique edge.
 - Got a new hardware project but lack engineers to handle it? We’re here to help.
 - Have an idea, question, or proposal? We’re happy to discuss and support.\
-[_Contact us_](mailto:mail@1slab.com?subject=Inquiry%20from%201SLab.com)&nbsp; &nbsp; ~&nbsp; &nbsp; [_What we do_](/posts/2024-12-06-Building_Electronic_Device)
+[Contact us](mailto:mail@1slab.com?subject=Hey%201SLab.com!)&nbsp; &nbsp; ~&nbsp; &nbsp; [_What we do_](/posts/2024-12-06-Building_Electronic_Device)
 
 ###### Articles & Stories
 - Learn how great devices are built and the best ways to create them.
