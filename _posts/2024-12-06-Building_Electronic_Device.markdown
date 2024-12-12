@@ -93,7 +93,7 @@ Engineers' involvement in hardware projects extends beyond design and developmen
 
 ##### Design and Development
 ###### Proof of Concept
-![Great! No Magic Smoke coming](:BED-PC.jpg){:width="220"}
+![Great! No Magic Smoke](:BED-PC.jpg){:width="220"}
 
 So, we've defined and approved the full specification, our resources and timeline are under strict control, and engineers are ready to support the project. Now, let's begin the initial [Research & Development](https://en.wikipedia.org/wiki/Research_and_development) (R&D) phase. The goal is to have a combination of hardware and software components that are functional enough to confirm that the technical solution chosen in earlier design phases is the right one.
 
