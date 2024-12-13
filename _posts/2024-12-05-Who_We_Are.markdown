@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Our_History
-title: Our History
+lng_pair: id_who_we_are
+title: Who We Are
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -36,11 +36,11 @@ on_site_search_exclude: true
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+published: true
 ---
-![How can I use these things in my new device design?](:Dmitrijs-2020.jpg){:data-align="center"}
+![Good components for my new device design](:Dmitrijs-2020.jpg){:data-align="center"}
 
-Hey! It’s great to meet you here in this cozy corner of the Internet. My name is [Dmitrijs](https://www.linkedin.com/in/dmivs/)—or Dima—and I’ve been designing hardware and software for as long as I can remember.
+Hey! It’s great to meet you here in this cozy corner of the Internet. My name is Dmitrijs—or Dima—and I’ve been designing hardware and software for as long as I can remember.
 
 I have always loved technology. As a kid, I dreamed about building computers and exploring space. Over the years, I have worked on many exciting projects: reverse-engineering old game consoles, improving Japanese TV studios, shaking buildings with powerful motors, and even taming fire-throwing machines!
 
@@ -48,4 +48,4 @@ Over time, I became a professional engineer and team leader, designing electroni
 
 In 2024, I started [1S Lab](/) to create a place where my friends and I could follow our passion, share our knowledge, help people design amazing devices that improve lives, help businesses thrive, and support the exploration of our planet—and maybe, one day, even beyond.
 
-So feel free to explore this site, and let’s [be in touch](/tabs/about)!
+So feel free to explore this site, and let’s [be in touch](https://www.linkedin.com/in/dmivs/)!
