@@ -34,6 +34,7 @@ img: ":lab-locations-v3_cr.jpg"
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 published: true
+# Put this to the end of page when this post is enabled and updated :: Learn about our [History](/posts/2024-12-05-Our-History)
 ---
 We are a group of professional device engineers based in Riga, [Latvia](https://en.wikipedia.org/wiki/European_Union), offering:
 - Custom hardware [solutions](/posts/2024-12-07-Business_Hardware_Solutions) for business.
@@ -41,5 +42,4 @@ We are a group of professional device engineers based in Riga, [Latvia](https://
 
 Contact us via [E-mail](mailto:mail@1slab.com?subject=Hey%201SLab.com!).\
 Explore our [blog](/tabs/blog/).\
-Connect with us on social media.\
-Learn about our [History](/posts/2024-12-05-Our-History).
+Connect with us on social media.

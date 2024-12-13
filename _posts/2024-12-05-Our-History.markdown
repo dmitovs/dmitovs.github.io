@@ -36,7 +36,7 @@ on_site_search_exclude: true
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+published: false
 ---
 ![How can I use these things in my new device design?](:Dmitrijs-2020.jpg){:data-align="center"}
 
