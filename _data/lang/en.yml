@@ -138,14 +138,14 @@ post-list:
 home:
   title: Welcome
   button_name: Home
-  new_posts_title: Recent Articles
+  new_posts_title: Engineering Blog
   new_posts_show_more_button: More...
 
 # for archives layout
 archives:
-  title: Archive
-  button_name: Archive
-  page_header: Archive
+  title: Timeline
+  button_name: Timeline
+  page_header: Timeline
 
 # for about layout
 about:
@@ -175,7 +175,7 @@ privacy-policy:
 constants:
   greetings: Welcome to 1SLab.com
   welcome: Welcome
-  sample: One-Stop Lab
+  sample: One-Stop Device Lab
 
 # for contact form
 contact_form:

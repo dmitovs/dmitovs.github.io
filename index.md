@@ -36,14 +36,10 @@ img: ":EM-slab-darken-1024x576.jpg"
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
-###### Products & Services
-- Want to stand out from the competition? Our hardware solutions could give your business a unique edge.
-- Got a new hardware project but lack engineers to handle it? We’re here to help.
-- Have an idea, question, or proposal? We’re happy to discuss and support.\
-[_Contact us_](mailto:mail@1slab.com?subject=Hey%201SLab.com!)&nbsp; &nbsp; ~&nbsp; &nbsp; [_What we do_](/posts/2024-12-06-Building_Electronic_Device)
+[//]: # (Designed to be compact and catchy on a small smartphone screen. Don't use word Automation - it's heavily used for business software)
 
-###### Articles & Stories
-- Learn how great devices are built and the best ways to create them.
-- Explore the history of engineering and learn why engineering projects succeed or fail.
-- Discover the stories of great engineers and why their way of life is so fulfilling and fun.\
-[_Our blog_](/tabs/blog/)&nbsp; &nbsp; ~&nbsp; &nbsp; [_Who we are_](/posts/2024-12-04-Who-We-Are)
+###### For Your Business
+Want to stand out from the competition? Discover how our hardware solutions can [give your business a unique advantage](/posts/2024-12-07-Business_Hardware_Solutions).
+
+###### From Idea to Product
+Got a new hardware project but lack engineers to handle it? Read about our [design and manufacturing services](/posts/2024-12-06-Building_Electronic_Devices).

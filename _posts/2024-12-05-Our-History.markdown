@@ -40,10 +40,12 @@ on_site_search_exclude: true
 ---
 ![How can I use these things in my new device design?](:Dmitrijs-2020.jpg){:data-align="center"}
 
-Hey! It’s great to meet you here in this cozy corner of the Internet. My name is [Dmitrijs](https://www.linkedin.com/in/dmivs/)—or Dima—and I’ve been designing hardware and software my entire life.
+Hey! It’s great to meet you here in this cozy corner of the Internet. My name is [Dmitrijs](https://www.linkedin.com/in/dmivs/)—or Dima—and I’ve been designing hardware and software for as long as I can remember.
 
 I have always loved technology. As a kid, I dreamed about building computers and exploring space. Over the years, I have worked on many exciting projects: reverse-engineering old game consoles, improving Japanese TV studios, shaking buildings with powerful motors, and even taming fire-throwing machines!
 
 Over time, I became a professional engineer and team leader, designing electronic devices and automation systems across a wide range of fields, from telecommunications to drones.
 
-In 2024, I started [1SLab.com](/) to create place, where my friends and I can follow our passion, share our knowledge, and help people design amazing devices that improve lives, and support the exploration of our planet—and maybe, one day, even beyond.
+In 2024, I started [1S Lab](/) to create a place where my friends and I could follow our passion, share our knowledge, help people design amazing devices that improve lives, help businesses thrive, and support the exploration of our planet—and maybe, one day, even beyond.
+
+So feel free to explore this site, and let’s [be in touch](/tabs/about)!

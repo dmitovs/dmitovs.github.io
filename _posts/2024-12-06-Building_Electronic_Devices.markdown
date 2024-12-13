@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Building_Electronic_Device
-title: Building Electronic Device
+lng_pair: id_Building_Electronic_Devices
+title: Building Electronic Devices
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -41,13 +41,13 @@ date: 2024-12-06 10:00:00 +0200
 ![Hardware Product Design Stages](:Product-design-stages.png)
 
 Hardware is not forgiving of mistakes, and many steps are required to successfully deliver a project:
-- [Brainstorm & Consult](/posts/2024-12-06-Building_Electronic_Device#brainstorm--consult)
-- [Project Planning](/posts/2024-12-06-Building_Electronic_Device#project-planning)
-- [Project Management](/posts/2024-12-06-Building_Electronic_Device#project-management)
-- [Technical Support](/posts/2024-12-06-Building_Electronic_Device#technical-support)
-- [Design and Development](/posts/2024-12-06-Building_Electronic_Device#design-and-development)
-- [Certification](/posts/2024-12-06-Building_Electronic_Device#certification)
-- [Manufacturing ramp-up](/posts/2024-12-06-Building_Electronic_Device#manufacturing-ramp-up)
+- [Brainstorm & Consult](/posts/2024-12-06-Building_Electronic_Devices#brainstorm--consult)
+- [Project Planning](/posts/2024-12-06-Building_Electronic_Devices#project-planning)
+- [Project Management](/posts/2024-12-06-Building_Electronic_Devices#project-management)
+- [Technical Support](/posts/2024-12-06-Building_Electronic_Devices#technical-support)
+- [Design and Development](/posts/2024-12-06-Building_Electronic_Devices#design-and-development)
+- [Certification](/posts/2024-12-06-Building_Electronic_Devices#certification)
+- [Manufacturing ramp-up](/posts/2024-12-06-Building_Electronic_Devices#manufacturing-ramp-up)
 
 The complexity of each step depends on the specific project. While some steps might be simple and take only a few hours of work by one person, other can be much more complicated, requiring the attention of a team of experienced professionals for several weeks.
 
@@ -176,8 +176,4 @@ This step is only needed for high-volume products. Production can now be scaled 
 
 ***
 
-Now you should have a better understanding of how electronic product design and manufacturing works. It may seem complex, but experienced professionals can guide you through the process and turn your vision into a beautiful device.
-
-***
-
-[_1SLab.com_](/posts/2024-12-04-Who-We-Are) -- [E-mail](mailto:mail@1slab.com?subject=Hey%201SLab.com!) -- [Linkedin](https://www.linkedin.com/company/1slab) -- [Facebook](https://www.facebook.com/1slab/) -- [Youtube](https://www.youtube.com/@1SLab_en)
+Now you have a better understanding of how electronic product design and manufacturing works. It may seem complex, but experienced professionals can guide you through every step and bring your vision to life. Ready to start? [Contact us](/tabs/about) to discuss your idea or project.

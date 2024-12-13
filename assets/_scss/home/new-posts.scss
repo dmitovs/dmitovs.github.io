@@ -1,15 +1,16 @@
 /* Mr. Green Jekyll Theme (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
  * Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
  * Licensed under MIT
+ *
+ * Dmitris Ovsjannikovs
+ * 20241213 Removed margins; Reduced h1 font size to match headers in main Index page block
 */
 
 .new-posts-container {
-  margin-left: 5%;
-  margin-right: 5%;
 }
 
 .new-posts-container h1 {
-  font-size: 2.2rem;
+  font-size: 1.8rem;
 }
 
 .new-posts {
