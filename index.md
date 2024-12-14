@@ -34,12 +34,16 @@ img: ":EM-slab-darken-1024x576.jpg"
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
+
 #published: false
+
+# (Designed to be compact and catchy on a small smartphone screen. Don't use word Automation - it's heavily used for business software)
 ---
-[//]: # (Designed to be compact and catchy on a small smartphone screen. Don't use word Automation - it's heavily used for business software)
 
 ###### For Your Business
-Want to stand out from the competition? Discover how our hardware solutions can [give your business a unique advantage](/posts/2024-12-07-Business_Hardware_Solutions).
+Want to stand out from the competition? Our hardware solutions can give your business a unique advantage.
+[_Find out how_](/posts/2024-12-07-Business_Hardware_Solutions)
 
 ###### From Idea to Product
-Got a new hardware project but lack engineers to handle it? Read about our [design and manufacturing services](/posts/2024-12-06-Building_Electronic_Devices).
+Got a new project but lack engineers to handle it? We provide hardware design and manufacturing services.
+[_Learn more_](/posts/2024-12-06-Building_Electronic_Devices)
