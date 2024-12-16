@@ -4,27 +4,27 @@
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "Projects Showcase"
+    info: "Highlights of our work"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":pcb-dusty-dark-v3.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Historical"
+      type: id_historical
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "Featured"
+      type: id_featured
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+    #- title: "Quote"
+    #  type: id_quote
+    #  color: "#2FD0ED"
 
   list:
-    # example
-    - type: id_example
+    # Historical
+    - type: id_historical
       project_name: "Example Project"
       project_excerpt: "Examples"
       img: ":project1_thumb.jpg"
