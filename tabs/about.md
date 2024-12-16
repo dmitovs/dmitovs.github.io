@@ -41,4 +41,4 @@ We are a group of professional device engineers based in Riga, [Latvia](https://
 - Design and manufacturing [services](/posts/2024-12-06-Building_Electronic_Devices) in electronics, mechantronics and robotics.
 
 Contact us by [_E-mail_](mailto:mail@1slab.com?subject=Hey%201SLab.com!) - [_Linkedin_](https://www.linkedin.com/company/1slab/).\
-Explore our [_Blog_](/tabs/blog/) - [_History_](/posts/2024-12-05-Who_We_Are) - [_Projects_](/tabs/projects)
+Explore our [_Blog_](/tabs/blog/) - [_History_](/posts/2024-12-05-Who_We_Are)

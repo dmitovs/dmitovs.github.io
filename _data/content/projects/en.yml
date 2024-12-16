@@ -5,28 +5,27 @@
 page_data:
   main:
     header: "Projects Showcase"
-    info: "Highlights of our work"
+    info: "Selected highlights of our work"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":pcb-dusty-dark-v3.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Historical"
-      type: id_historical
-      color: "gray"
-    - title: "Featured"
-      type: id_featured
-      color: "#62b462"
-    #- title: "Quote"
-    #  type: id_quote
-    #  color: "#2FD0ED"
+    - title: "Consumer"
+      type: id_consumer
+      #color: "gray"
+    - title: "Commercial"
+      type: id_commercial
+      #color: "green"
+    - title: "Industrial"
+      type: id_industrial
+      #color: "blue"
 
   list:
-    # Historical
-    - type: id_historical
-      project_name: "Example Project"
-      project_excerpt: "Examples"
+    - type: id_industrial
+      project_name: "Packaging Machine"
+      project_excerpt: "Bulk goods packaging machine upgrade"
       img: ":project1_thumb.jpg"
       img_title: "img title1"
       date: "2021-03-13"
