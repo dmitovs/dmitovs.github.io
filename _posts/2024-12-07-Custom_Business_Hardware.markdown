@@ -63,4 +63,6 @@ Every business is unique, so we follow a tailored approach to deliver effective 
 - Train staff to use the solution properly
 - Scale up
 
-[Contact us](/tabs/about) to discuss your specific situation.
+***
+
+[_1S Lab_](/tabs/about)
