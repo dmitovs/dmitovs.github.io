@@ -31,6 +31,6 @@ image_lazy_loader_on: true
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
-#published: true
+#published: false
+published: true
 ---

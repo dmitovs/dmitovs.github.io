@@ -21,11 +21,61 @@ page_data:
     - title: "Industrial"
       type: id_industrial
       #color: "blue"
+    - title: "Other"
+      type: id_other
+      #color: "blue"
 
   list:
+    - type: id_consumer
+      project_name: "Consumer Drone"
+      project_excerpt: "Unmanned Aerial Vehicle (UAV) for Action sports"
+      img: ":Airdog_set.jpg"
+      img_title: "Airdog and Airleash"
+      date: "Legacy"
+      post: |
+        As part of the Airdog team, we designed and manufactured action sport drones. To bring the product to market, we addressed several key challenges:
+        - Durable electronics: Developed lightweight, cost-effective, and heavy-duty electronics capable of operating in harsh conditions, including impacts, vibrations, extreme temperatures, high altitudes, and exposure to saltwater and vapor.
+        - Sturdy enclosure: Engineered a robust yet lightweight and low-cost plastic drone enclosure optimized for mass production.\
+        ![Airdog](:Airdog_1.jpg)
+        - Rugged remote control: Designed and implemented a handheld control device capable of withstanding drops, impacts, and submersion in saltwater, while integrating precision sensors such as GPS, pressure, and inertial measurement units.
+        ![Airlesh](:Airleash.jpg)
+        - Reliable supply chain: Established and managed a supply chain by identifying and overseeing key component manufacturers in Mainland China and other regions.
+        - Scalable production: Successfully launched mass production in Latvia and scaled operations to Taiwan.\
+        
+        As a result of these efforts, we created a product that was loved by customers, won a Kickstarter campaign, and received first prize at the CES exhibition.       
+    - type: id_commercial
+      project_name: "Advanced Sound Processor"
+      project_excerpt: "Professional and High-End Audio equalizers"
+      img: ":APEQ-8pro.jpg"
+      img_title: "APEQ-8pro"
+      date: "Legacy"
+      post: |
+        As part of the Real Sound Lab team, we designed and manufactured equipment for professional sound studios, concert halls, and high-end audio customers. To achieve the high performance required for these devices, we overcame several challenges:
+        - Low-noise, low-distortion analog circuits design.
+        - High-precision, low cost analog/digital (ADC and DAC) converters
+        - Low-latency, high performance FPGA based digital signal processor (DSP)
+        - Compact multi-channel design: Addressed challenges related to electromagnetic interference (EMI) and heat dissipation while maintaining a compact form factor.\
+        
+        The resulting product was embraced by satisfied customers worldwide.    
     - type: id_industrial
       project_name: "Packaging Machine"
-      project_excerpt: "Bulk goods packaging machine upgrade"
+      project_excerpt: "Bulk goods packaging machine upgrade "
+      img: ":FFP-1-overall-view.png"
+      img_title: "Overall machine 2D draft"
+      date: "Legacy"
+      post: |
+        A customer acquired an old packaging machine designed to pack bulk products like salt into polyethylene or polypropylene bags. The machine originally featured a volume dosator and lacked any sensors, which significantly limited its efficiency. As part of this project, the machine was upgraded with a weight-based dosator, film damage sensors, precision temperature regulators for splicers, and an electronic control system. These upgrades considerably reduced the possibility of material loss or overspending, improved product quality, and enhanced overall equipment performance. As a result, the machine became capable of packaging more expensive products.
+    - type: id_other
+      project_name: "Confidential Projects"
+      project_excerpt: "Projects not yet ready for publication"
+      img: ":Myst-device.png"
+      img_title: "Mysterious device"
+      date: "Ongoing"
+      post: |
+        Unfortunately, many interesting and challenging projects cannot be shared here—they are still confidential and cannot be disclosed.
+    - type: id_example
+      project_name: "Example"
+      project_excerpt: "Example"
       img: ":project1_thumb.jpg"
       img_title: "img title1"
       date: "2021-03-13"
@@ -170,62 +220,3 @@ page_data:
           print(i)
         ```
 
-    # picture
-    - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
-      post: |
-        # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
-
-    # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
-      post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.

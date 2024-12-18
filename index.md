@@ -41,9 +41,9 @@ img: ":EM-slab-darken-1024x576.jpg"
 ---
 
 ###### For Your Business
-Want to stand out from the competition? Our hardware solutions can give your business a unique advantage.
-[_Find out how_](/posts/2024-12-07-Business_Hardware_Solutions)
+Custom electronics, automation, and robotic solutions\
+[_Contact us_](mailto:mail@1slab.com?subject=Hey%201SLab.com!)&nbsp; -&nbsp; [_Find out more_](/posts/2024-12-07-Custom_Business_Hardware)
 
 ###### From Idea to Product
-Got a new project but lack engineers to handle it? We provide hardware design and manufacturing services.
-[_Learn more_](/posts/2024-12-06-Building_Electronic_Devices)
+Electronics and electromechanical design and manufacturing services\
+[_Contact us_](mailto:mail@1slab.com?subject=Hey%201SLab.com!)&nbsp; -&nbsp; [_Find out more_](/posts/2024-12-06-Building_Electronic_Devices)

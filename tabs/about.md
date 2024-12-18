@@ -37,8 +37,8 @@ published: true
 # Put this to the end of page when this post is enabled and updated :: 
 ---
 We are a group of professional device engineers based in Riga, [Latvia](https://en.wikipedia.org/wiki/European_Union), offering:
-- Custom hardware [solutions](/posts/2024-12-07-Business_Hardware_Solutions) for business.
+- Custom hardware [solutions](/posts/2024-12-07-Custom_Business_Hardware) for business.
 - Design and manufacturing [services](/posts/2024-12-06-Building_Electronic_Devices) in electronics, mechantronics and robotics.
 
-Contact us by [_E-mail_](mailto:mail@1slab.com?subject=Hey%201SLab.com!) - [_Linkedin_](https://www.linkedin.com/company/1slab/).\
-Explore our [_Blog_](/tabs/blog/) - [_History_](/posts/2024-12-05-Who_We_Are)
+Contact: [_E-mail_](mailto:mail@1slab.com?subject=Hey%201SLab.com!)&nbsp; -&nbsp; [_Linkedin_](https://www.linkedin.com/company/1slab/).\
+Explore: [_Blog_](/tabs/blog/)&nbsp; -&nbsp; [_History_](/posts/2024-12-05-Who_We_Are)&nbsp; -&nbsp; [_Portfolio_](/tabs/projects)

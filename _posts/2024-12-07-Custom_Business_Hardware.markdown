@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Business_Solutions
-title: Business Hardware Solutions
+lng_pair: id_Custom_Business_Hardware
+title: Custom Business Hardware
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -40,31 +40,27 @@ date: 2024-12-07 10:00:00 +0200
 ---
 ![Hardware Business Solution development process](:Business-hardware-solutions-v1.jpg)
 
-We develop, build, and support custom electronic and mechatronic hardware solutions that boost your business performance, helping you stand out from the fierce competition.
+In today's world, businesses of all sizes—ranging from small souvenir shops to large manufacturing plants—face fierce competition. To stand out, differentiation is key. One way to achieve this is by using custom equipment tailored to meet unique business needs.
 
-###### Retail and Services
-- Boost sales
-- Expand your product range
-- Attract new customers
-- Enhance customer satisfaction
+###### Retail and service industries
+Custom machines can attract new customers, boost sales of existing products, offer additional services, and make the sales process more engaging. This not only enhances the customer experience but also increases loyalty and encourages customers to promote your business online.
 
-###### Crafting and Manufacturing
-- Improve manufacturing performance
-- Reduce production costs
-- Introduce unique manufacturing processes to give your business a competitive edge
+###### Crafting and manufacturing
+Custom hardware solutions can improve production efficiency, reduce unit costs, and enable unique manufacturing processes. This makes it difficult for competitors to replicate your products, giving you a distinct edge in the market.
 
-###### Not listed?
-The business world is diverse, and it's impossible to know every corner of it. Contact us to share details about your business, its specifics, and unique needs. We will propose a solution tailored specifically for you.
+###### Other industries
+Even if your business doesn't fall into the categories above, we are confident that custom hardware solutions can be designed to meet your specific needs and challenges.
 
-###### Development process
-Since every business is unique, to provide you with a working solution, we follow these steps:
-- Learn about your business, its specifics, and challenges
+###### Development Process
+Every business is unique, so we follow a tailored approach to deliver effective custom hardware solutions:
+
+- Learn about specific business, its needs, and challenges
 - Brainstorm and propose possible solution options
 - Select a partnership model, develop a collaboration plan, and set a timeline
 - Design and build a pilot project
-- Install and evaluate the solution on your site
+- Install and evaluate the solution at the customer site
 - Monitor and optimize the solution for the best performance
-- Train your staff to use the solution properly
+- Train staff to use the solution properly
 - Scale up
 
-Interested? [Contact us](/tabs/about) with your business specifics and concerns.
+[Contact us](/tabs/about) to find out more.

@@ -176,4 +176,6 @@ This step is only needed for high-volume products. Production can now be scaled 
 
 ***
 
-Now you have a better understanding of how electronic product design and manufacturing works. It may seem complex, but experienced professionals can guide you through every step and bring your vision to life. Ready to start? [Contact us](/tabs/about) to discuss your idea or project.
+Now you have a better understanding of how electronic product design and manufacturing works. It may seem complex, but experienced professionals can guide you through every step and bring your vision to life.
+
+[Contact us](/tabs/about) to find out more.
