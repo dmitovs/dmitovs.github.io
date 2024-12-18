@@ -178,4 +178,4 @@ This step is only needed for high-volume products. Production can now be scaled 
 
 Now you have a better understanding of how electronic product design and manufacturing works. It may seem complex, but experienced professionals can guide you through every step and bring your vision to life.
 
-[Contact us](/tabs/about) to find out more.
+[Contact us](/tabs/about) to find more about our hardware design and manufacturing services.
