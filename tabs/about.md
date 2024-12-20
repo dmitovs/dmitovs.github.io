@@ -36,9 +36,9 @@ img: ":lab-locations-v3_cr.jpg"
 published: true
 # Put this to the end of page when this post is enabled and updated :: 
 ---
-We are a group of professional device engineers based in Riga, [Latvia](https://en.wikipedia.org/wiki/European_Union), offering:
-- Custom hardware [solutions](/posts/2024-12-07-Custom_Business_Hardware) for business.
-- Design and manufacturing [services](/posts/2024-12-06-Building_Electronic_Devices) in electronics, mechantronics and robotics.
+Professional electronic device developers based in Riga, [Latvia](https://en.wikipedia.org/wiki/European_Union):
+- Custom hardware [solutions](/posts/2024-12-07-Custom_Business_Hardware) tailored for businesses.
+- Design and manufacturing [services](/posts/2024-12-06-Building_Electronic_Devices) in electronics, electromechanics and robotics.
 
 Contact: [_E-mail_](mailto:mail@1slab.com?subject=Hey%201SLab.com!)&nbsp; -&nbsp; [_Linkedin_](https://www.linkedin.com/company/1slab/).\
 Explore: [_Blog_](/tabs/blog/)&nbsp; -&nbsp; [_History_](/posts/2024-12-05-Who_We_Are)&nbsp; -&nbsp; [_Portfolio_](/tabs/projects)
